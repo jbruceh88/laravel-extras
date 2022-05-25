@@ -1,7 +1,6 @@
 <?php
     namespace Company\Package\Console;
 
-    use Agilis\ZohoConnector\Models\Pharmacy;
     use Illuminate\Console\Command;
     use Illuminate\Support\Facades\File;
 
